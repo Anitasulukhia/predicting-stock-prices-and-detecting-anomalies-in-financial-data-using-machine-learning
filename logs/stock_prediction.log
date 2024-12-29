@@ -1,0 +1,93 @@
+2024-12-23 15:31:21,663 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 15:31:21,675 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 15:31:21,676 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 15:31:34,177 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 15:31:34,191 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 15:31:34,192 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:04:54,410 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:04:54,427 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:04:54,428 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:04:57,197 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:04:57,197 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:04:57,216 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:04:57,216 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:04:57,219 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:04:57,219 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:04,872 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:04,884 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:04,885 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:07,183 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:07,183 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:07,199 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:07,199 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:07,201 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:07,201 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:33,928 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:33,942 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:33,943 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:36,626 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:36,626 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-23 16:10:36,642 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:36,642 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-23 16:10:36,643 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-23 16:10:36,643 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:20:28,125 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:20:28,127 - StockPricePredictor - ERROR - Error in data preparation: [Errno 2] No such file or directory: 'data/NVDA/NVDA_cleaned_data.csv'
+2024-12-25 14:23:11,654 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:23:11,655 - StockPricePredictor - ERROR - Error in data preparation: [Errno 2] No such file or directory: 'data/NVDA/NVDA_cleaned_data.csv'
+2024-12-25 14:24:05,011 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:24:05,012 - StockPricePredictor - ERROR - Error in data preparation: [Errno 2] No such file or directory: 'data/NVDA/cleaned_data.csv'
+2024-12-25 14:24:25,327 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:24:25,349 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:24:25,350 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:24:28,071 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:24:28,071 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:24:28,086 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:24:28,086 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:24:28,087 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:24:28,087 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:27:05,506 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:27:05,520 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:27:05,521 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:27:07,982 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:27:07,982 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:27:07,996 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:27:07,996 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:27:07,997 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:27:07,997 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:31:36,615 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:31:36,629 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:31:36,629 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:31:39,636 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:31:39,636 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:31:39,649 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:31:39,649 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:31:39,651 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:31:39,651 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:32:51,066 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:32:51,078 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:32:51,079 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:32:54,123 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:32:54,123 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:32:54,137 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:32:54,137 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:32:54,138 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:32:54,138 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:15,844 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:15,859 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:15,860 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:18,285 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:18,285 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:18,297 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:18,297 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:18,297 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:18,297 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:41,886 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:41,898 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:41,899 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:44,596 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:44,596 - StockPricePredictor - INFO - Loading and preparing data
+2024-12-25 14:34:44,609 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:44,609 - StockPricePredictor - INFO - Feature Correlations with Close Price:
+2024-12-25 14:34:44,610 - StockPricePredictor - INFO - Training and evaluating models
+2024-12-25 14:34:44,610 - StockPricePredictor - INFO - Training and evaluating models
