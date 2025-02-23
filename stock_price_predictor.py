@@ -13,19 +13,9 @@ from exceptions import *
 
 
 class StockPricePredictor:
-    """
-    A class for predicting stock prices using machine learning models.
-    Maintains exact same operations and output as original implementation.
-    """
 
     def __init__(self, data_path: str, log_dir: str = 'logs'):
-        """
-        Initialize the predictor with data path and logging configuration.
-
-        Args:
-            data_path (str): Path to the stock data CSV file
-            log_dir (str): Directory for log files
-        """
+       
         self.data_path = data_path
         self.logger = self._setup_logger(log_dir)
 
@@ -59,12 +49,7 @@ class StockPricePredictor:
         return logger
 
     def prepare_features(self) -> Tuple[pd.DataFrame, pd.Series]:
-        """
-        Prepare features exactly as in original implementation.
-
-        Returns:
-            Tuple[pd.DataFrame, pd.Series]: X features and y target
-        """
+       
         try:
             self.logger.info("Loading and preparing data")
 
@@ -91,16 +76,7 @@ class StockPricePredictor:
             raise DataPreparationError(f"Failed to prepare data: {str(e)}")
 
     def select_features(self, X: pd.DataFrame, y: pd.Series) -> pd.DataFrame:
-        """
-        Select features based on correlation, exactly as in original.
-
-        Args:
-            X (pd.DataFrame): Feature matrix
-            y (pd.Series): Target variable
-
-        Returns:
-            pd.DataFrame: Selected features
-        """
+       
         try:
             # Feature Selection based on correlation - exact same as original
             correlation = X.corrwith(y).abs()
@@ -124,16 +100,7 @@ class StockPricePredictor:
             X: pd.DataFrame,
             y: pd.Series
     ) -> Dict[str, tuple]:
-        """
-        Train and evaluate models exactly as in original implementation.
-
-        Args:
-            X (pd.DataFrame): Features
-            y (pd.Series): Target
-
-        Returns:
-            Dict[str, tuple]: Dictionary containing model predictions and metrics
-        """
+       
         try:
             self.logger.info("Training and evaluating models")
 
@@ -176,12 +143,6 @@ class StockPricePredictor:
             raise ModelError(f"Failed to train models: {str(e)}")
 
     def plot_results(self, results: Dict[str, tuple]) -> None:
-        """
-        Plot results exactly as in original implementation.
-
-        Args:
-            results (Dict[str, tuple]): Dictionary containing model results
-        """
         try:
             # Create exact same plot as original
             plt.figure(figsize=(12, 6))
